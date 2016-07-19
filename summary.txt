@@ -1,0 +1,15 @@
+year	sampling.site	sum	female	male
+2013	Drogobych	NA	NA	NA
+2013	Inkerman	NA	NA	NA
+2014	Kyiv	673	224	349
+2013	Kyiv	NA	NA	NA
+2013	Odesa_08	NA	NA	NA
+2014	Ozero	446	251	195
+2014	Poliske	86	57	29
+2014	Sad	1475	546	929
+2014	Uman	513	251	262
+2013	Uman_08	NA	NA	NA
+2013	Uman_10	NA	NA	NA
+2014	Varva	1289	439	850
+2013	Varva	1981	540	1441
+2014	Yaniv	189	92	97
